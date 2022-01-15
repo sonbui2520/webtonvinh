@@ -1,0 +1,28 @@
+.td_dexuat{
+    display: flex;
+}
+.select_dexuat
+{
+    width: 73px;
+}
+.nut_dexuat
+{
+    height: 15px;
+    width: 15px;
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-top: 10px;
+}
+.red
+{
+    background: red;
+}
+.yellow
+{
+    background: yellow;
+}
+.green
+{
+    background: green;
+}
+
